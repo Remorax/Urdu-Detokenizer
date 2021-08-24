@@ -4,5 +4,5 @@ This repository contains a script for trivially detokenizing an Urdu corpus. It 
 
 ## How to Run
 
-Run `python3 urdu_detok.py <urdu_corpus>` 
+Run `python3 detokenize_ltr.py <path_to_input_corpus> <path_to_output_corpus>` 
 
